@@ -1,0 +1,9 @@
+{
+"scripts": {
+    "lint": "html-validator ./*.html"
+},
+
+  "devDependencies": {
+    "w3c-html-validator": "^1.8.2"
+  }
+}
