@@ -33,4 +33,4 @@ By working on this project, I have gained practical experience in the following 
 
 ## CI/CD Workflow
 
-The CI/CD pipeline is defined in the `.github/workflows/main.yml
+The CI/CD pipeline is defined in the `.github/workflows/main.yml'
